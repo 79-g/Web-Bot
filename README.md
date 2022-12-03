@@ -1,2 +1,2 @@
-Versão do web-site ainda não está completo falta termina a resolução mobile mas já está 90% pronto
-Website version is not yet complete, mobile resolution is missing but it is already 90% ready
+Estou criando um bot de segurança para o discord e deixarei o codigo dele aberto pra vcs
+I'm creating a security bot for discord and I'll leave its code open for you
