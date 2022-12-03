@@ -4,4 +4,4 @@
 <img src="Animação.gif">
 </h1>
 <h2> ❗ About </h2>
-<p> Website made to add my discord server security bot the whole project is being done to review everything I learned from my studies </p>
+<p> Website made to add my discord server security bot the whole project is being done to review <br>everything I learned from my studies </p>
